@@ -42,4 +42,12 @@ Some of the visual outputs generated in this project include:
 - Top 10 Authors by Number of Best-Sellers  
 - Rating vs. Price Distribution  
 - Genre-Wise Trends in Ratings and Reviews  
-- Pairplots showing feature relationships  
+- Pairplots showing feature relationships
+
+
+<img width="822" height="709" alt="image" src="https://github.com/user-attachments/assets/28c0a677-8354-4eef-812d-7949a3ab1078" />
+
+<img width="848" height="641" alt="image" src="https://github.com/user-attachments/assets/07f2c724-e36b-4ae6-bf3e-0c46017726ad" />
+
+<img width="496" height="496" alt="image" src="https://github.com/user-attachments/assets/ad9265c7-088b-45e8-8808-f9706c6e6942" />
+

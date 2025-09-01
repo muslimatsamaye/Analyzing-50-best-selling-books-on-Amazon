@@ -43,9 +43,3 @@ Some of the visual outputs generated in this project include:
 - Rating vs. Price Distribution  
 - Genre-Wise Trends in Ratings and Reviews  
 - Pairplots showing feature relationships  
-
-*(Add images/screenshots here when available)*  
-
-
-   git clone https://github.com/your-username/Analyzing_50_best_selling_books_on_Amazon.git
-

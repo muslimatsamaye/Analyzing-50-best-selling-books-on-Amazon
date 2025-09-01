@@ -45,9 +45,7 @@ Some of the visual outputs generated in this project include:
 - Pairplots showing feature relationships
 
 
-<img width="822" height="709" alt="image" src="https://github.com/user-attachments/assets/28c0a677-8354-4eef-812d-7949a3ab1078" />
+<img width="822" height="709" alt="Top 10 Authors by No  of Books" src="https://github.com/user-attachments/assets/2ddb6811-2d40-4029-89fa-cd2cf22da01b" />
 
-<img width="848" height="641" alt="image" src="https://github.com/user-attachments/assets/07f2c724-e36b-4ae6-bf3e-0c46017726ad" />
 
-<img width="496" height="496" alt="image" src="https://github.com/user-attachments/assets/ad9265c7-088b-45e8-8808-f9706c6e6942" />
-
+<img width="496" height="496" alt="Pairplots showing feature relationships" src="https://github.com/user-attachments/assets/575ab508-2cfc-4557-adbf-d602499f9725" />
